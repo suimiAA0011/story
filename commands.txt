@@ -1,0 +1,9 @@
+xxxxxx
+
+C:\Users\96650\Desktop>mkdir Story
+dir
+git init
+git status
+git add <filename>
+git add . >> all thing
+git commit -m "commit message"
