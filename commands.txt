@@ -1,4 +1,4 @@
-xxxxxx
+cd Desktop/
 
 C:\Users\96650\Desktop>mkdir Story
 dir
